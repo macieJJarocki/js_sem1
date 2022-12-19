@@ -1,0 +1,291 @@
+{
+	"deck": [
+		{
+			"2s": {
+				"Heart": {
+					"fullName": "2 Heart",
+					"value": "2",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "2 Diamond",
+					"value": "2",
+					"color": "Diamond"
+				},
+				"Club": {
+					"fullName": "2 Club",
+					"value": "2",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"3s": {
+				"Heart": {
+					"fullName": "3 Heart",
+					"value": "3",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "3 Diamond",
+					"value": "3",
+					"color": "Diamond"
+				},
+				"Spade": {
+					"fullName": "3 Spade",
+					"value": "3",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "3 Club",
+					"value": "3",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"4s": {
+				"Heart": {
+					"fullName": "4 Heart",
+					"value": "4",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "4 Diamond",
+					"value": "4",
+					"color": "Diamond"
+				},
+				"Spade": {
+					"fullName": "4 Spade",
+					"value": "4",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "4 Club",
+					"value": "4",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"5s": {
+				"Heart": {
+					"fullName": "5 Heart",
+					"value": "5",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "5 Diamond",
+					"value": "5",
+					"color": "Diamond"
+				},
+				"Club": {
+					"fullName": "5 Club",
+					"value": "5",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"6s": {
+				"Spade": {
+					"fullName": "6 Spade",
+					"value": "6",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "6 Club",
+					"value": "6",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"7s": {
+				"Heart": {
+					"fullName": "7 Heart",
+					"value": "7",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "7 Diamond",
+					"value": "7",
+					"color": "Diamond"
+				},
+				"Spade": {
+					"fullName": "7 Spade",
+					"value": "7",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "7 Club",
+					"value": "7",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"8s": {
+				"Heart": {
+					"fullName": "8 Heart",
+					"value": "8",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "8 Diamond",
+					"value": "8",
+					"color": "Diamond"
+				},
+				"Spade": {
+					"fullName": "8 Spade",
+					"value": "8",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "8 Club",
+					"value": "8",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"9s": {
+				"Heart": {
+					"fullName": "9 Heart",
+					"value": "9",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "9 Diamond",
+					"value": "9",
+					"color": "Diamond"
+				},
+				"Spade": {
+					"fullName": "9 Spade",
+					"value": "9",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "9 Club",
+					"value": "9",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"10s": {
+				"Heart": {
+					"fullName": "10 Heart",
+					"value": "10",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "10 Diamond",
+					"value": "10",
+					"color": "Diamond"
+				},
+				"Spade": {
+					"fullName": "10 Spade",
+					"value": "10",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "10 Club",
+					"value": "10",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"Aces": {
+				"Heart": {
+					"fullName": "Ace Heart",
+					"value": "Ace",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "Ace Diamond",
+					"value": "Ace",
+					"color": "Diamond"
+				},
+				"Club": {
+					"fullName": "Ace Club",
+					"value": "Ace",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"Kings": {
+				"Heart": {
+					"fullName": "King Heart",
+					"value": "King",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "King Diamond",
+					"value": "King",
+					"color": "Diamond"
+				},
+				"Spade": {
+					"fullName": "King Spade",
+					"value": "King",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "King Club",
+					"value": "King",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"Queens": {
+				"Heart": {
+					"fullName": "Queen Heart",
+					"value": "Queen",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "Queen Diamond",
+					"value": "Queen",
+					"color": "Diamond"
+				},
+				"Spade": {
+					"fullName": "Queen Spade",
+					"value": "Queen",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "Queen Club",
+					"value": "Queen",
+					"color": "Club"
+				}
+			}
+		},
+		{
+			"Jacks": {
+				"Heart": {
+					"fullName": "Jack Heart",
+					"value": "Jack",
+					"color": "Heart"
+				},
+				"Diamond": {
+					"fullName": "Jack Diamond",
+					"value": "Jack",
+					"color": "Diamond"
+				},
+				"Spade": {
+					"fullName": "Jack Spade",
+					"value": "Jack",
+					"color": "Spade"
+				},
+				"Club": {
+					"fullName": "Jack Club",
+					"value": "Jack",
+					"color": "Club"
+				}
+			}
+		}
+	]
+}
